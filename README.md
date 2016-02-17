@@ -1,6 +1,6 @@
 # Javaproject3
-course work for colorado tech online
+Course work for Colorado Tech Online
 
-Finnally getting into gui building, but otherwise a continuation of previous projects.
+Finally getting into GUI building, but otherwise a continuation of previous projects.
 
-Built in netbeans ide following classwork, received an A for completing and exceeding requirements.
+Built in Netbeans ide following class-work, received an A for completing and exceeding requirements.
